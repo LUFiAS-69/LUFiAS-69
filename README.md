@@ -1,4 +1,4 @@
-<h1 align="center"><p>Hi 👋, I'm</p>Saiful Islam Anik</h1>
+<h1 align="center"><p>Saiful Islam Anik</p></h1>
 <h3 align="center">Student | Programmer | Game developer</h3>
 
 
