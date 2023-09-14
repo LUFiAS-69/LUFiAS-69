@@ -10,7 +10,6 @@
 <p align="left">
 <a href="https://fb.com/x.lufias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="x.lufias" height="30" width="40" /></a>
 <a href="https://instagram.com/x_lufias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="x_lufias" height="30" width="40" /></a>
-<a href="https://twitter.com/xlufias69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xlufias69" height="30" width="40" /></a>
 </p>
 
 
